@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <NationalParks
 	xmlns="https://www.nationalparks.assignmentfour.org/xml"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-isntance"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="https://www.nationalparks.assignmentfour.org/xml NationalParks.xsd">
 
 	<NationalPark Rating="4.7">
