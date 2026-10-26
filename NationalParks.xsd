@@ -21,8 +21,8 @@
 				</complexType>
 			</element>
 		</sequence>
+		<attribute name="Rating" type="float" use="optional"/>
 	</complexType>
-	<attribute name="Rating" type="float" use="optional"/>
 </element>
 <element name="NationalParks">
 	<complexType>
