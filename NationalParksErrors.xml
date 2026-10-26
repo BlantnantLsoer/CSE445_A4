@@ -85,7 +85,6 @@
 	</NationalPark>
 	<NationalPark>
 		<Name>Glacier</Name>
-		<Phone>406-888-7800</Phone>
 		<Address NearestAirport="Glacier Park International Airport">
 			<Number>64</Number>
 			<Street>Grinnell Dr</Street>
@@ -96,6 +95,7 @@
 	</NationalPark>
 	<NationalPark>
 		<Name>Acadia</Name>
+		<Phone></Phone>
 		<Address NearestAirport="Hancock County-Bar Harbor Airport">
 			<Number>25</Number>
 			<Street>Visitor Center Rd</Street>
@@ -107,12 +107,11 @@
 	<NationalPark>
 		<Name>Great Smoky Mountains</Name>
 		<Phone>865-436-1200</Phone>
-		<Address NearestAirport="McGhee Tyson Airport"
+		<Address NearestAirport="McGhee Tyson Airport">
 			<Number>107</Number>
 			<Street>Park Headquarters Rd</Street>
 			<City>Gatlinburg</City>
 			<State>Tennessee</State>
 			<Zip>37738</Zip>
-		</Address>
 	</NationalPark>
 </NationalParks>
